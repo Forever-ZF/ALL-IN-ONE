@@ -5,6 +5,9 @@
 ## 文件
 
 - **[`programmer-5000yuan-feasibility.md`](./programmer-5000yuan-feasibility.md)** —— 560 行 / 约 45 KB / 80+ 处带日期来源。
+- **[`cn-constraints-verification-notes.md`](./cn-constraints-verification-notes.md)** —— 证据底稿，687 行 / 约 70 KB。
+  逐条核查收款通道、备案与合规、获客渠道现实、国内生态数据、五条合规红线；
+  末尾附「本次核查中未找到的 11 项」（不推测）。
 
 ## 核心结论
 
