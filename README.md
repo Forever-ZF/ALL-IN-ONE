@@ -7,6 +7,7 @@
 | 主题 | 日期 | 内容 |
 |---|---|---|
 | [一人公司副业调研](./studies/2026-11-18-one-person-company/) | 2026-11-18 | 跨境电商 / 国内电商 / AI 变现三条路线的交叉归纳 + 原始报告归档 |
+| [Starter Story 项目排名](./studies/2026-11-19-starter-story-ranking/) | 2026-11-19 | 4,089 条真实盈利案例中筛出 10 类普通人可接触的项目，按可实施性排名 |
 
 ### 一人公司副业调研（2026-11-18）
 
@@ -14,6 +15,12 @@
 - **[`cross-border-ecommerce-report.md`](./studies/2026-11-18-one-person-company/cross-border-ecommerce-report.md)** —— 跨境电商。34 页、3.9 万字、229 处内联引用。
 - **[`domestic-ecommerce-report.md`](./studies/2026-11-18-one-person-company/domestic-ecommerce-report.md)** —— 国内电商。18 页、2.2 万字、47 条带日期来源。
 - **[`ai-monetization-report.md`](./studies/2026-11-18-one-person-company/ai-monetization-report.md)** —— AI 变现。26 页、1.5 万字、150+ 来源。
+
+### Starter Story 项目排名（2026-11-19）
+
+- **[`starter-story-ranking.md`](./studies/2026-11-19-starter-story-ranking/starter-story-ranking.md)** —— 
+  4,089 条真实盈利案例的筛选与排名。10 类项目按"普通人可实施性"打分，
+  每类给出可实现的点与缺点；附数据库自身的七重校准、国内渠道现实校准、三个必须拆掉的流传数字。
 
 ## 一句话结论
 
